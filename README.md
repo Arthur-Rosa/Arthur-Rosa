@@ -1,12 +1,12 @@
-Olá meu nome é Arthur Rosa - :four_leaf_clover:
-Sou do Brasil - :earth_americas:
-Tenho 17 Anos - :small_airplane:
+Olá meu nome é Arthur Rosa - :four_leaf_clover: <br>
+Sou do Brasil - :earth_americas: <br>
+Tenho 17 Anos - :small_airplane: <br>
 
 -=-
 
-Hello my name is Arthur Rosa - :four_leaf_clover:
-I'm from Brazil - :earth_americas:
-I'm 17 years old - :small_airplane:
+Hello my name is Arthur Rosa - :four_leaf_clover: <br>
+I'm from Brazil - :earth_americas: <br>
+I'm 17 years old - :small_airplane: <br>
 
 -=-
 <br>
