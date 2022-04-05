@@ -1,3 +1,18 @@
+Olá meu nome é Arthur Rosa - :four_leaf_clover:
+Sou do Brasil - :earth_americas:
+Tenho 17 Anos - :small_airplane:
+
+-=-
+
+Hello my name is Arthur Rosa - :four_leaf_clover:
+I'm from Brazil - :earth_americas:
+I'm 17 years old - :small_airplane:
+
+-=-
+<br>
+	<div style="display: inline_block" align="center">
+	<img align="center" alt="java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div><br>
 ```java
 @Controller
 public class ArthurController extends Developer {
@@ -39,7 +54,4 @@ public class ArthurController extends Developer {
  <div align="center" style="display: inline_block">
      <a href="https://github.com/ArthurCorpO">
      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCorpO&layout=compact&langs_count=7&theme=github_dark"/>
-   </div><br>
-	<div style="display: inline_block" align="center">
-	<img align="center" alt="java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div><br>
+   </div>
