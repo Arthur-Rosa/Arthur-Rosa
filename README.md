@@ -1,6 +1,4 @@
-<h3>Olá meu nome é Arthur Rosa - :four_leaf_clover: <br>
-Sou do Brasil - :earth_americas: <br>
-Tenho 17 Anos - :small_airplane: </h3><br>
+<h3>Olá meu nome é</h3><h2>Arthur Rosa</h2> - :four_leaf_clover: <br>
 
 -=-
 <br>
