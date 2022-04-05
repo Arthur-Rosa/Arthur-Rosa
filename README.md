@@ -6,13 +6,14 @@ public class ArthurController extends Developer {
 	private ArthurRepository repArthur;
 
 	@RequestMapping("aboutYou")
-	public String aboutMe() {
+	public String aboutMe(Model model) {
     		Arthur art =  new Arthur();
     
     		art.setName(" Arthur Rosa ");
     		art.setEmail(" arthur.corporativo@outlook.com ");
     		art.setLinkedin(" https://www.linkedin.com/in/arthur-rosa-a2805b208/ ");
   
+  		model.addAttribute("arthur", art);
 		return "arthur/about";
 	}
 
