@@ -19,7 +19,7 @@ public class ArthurController extends Developer {
 	@RequestMapping("languages")
 	public String languages(Model model) {
 		
-		List<String> lang = new ArrayList<Integer>();
+		List<String> lang = new ArrayList<String>();
     
     		lang.add(" JavaScript ");
     		lang.add(" Php ");
