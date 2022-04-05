@@ -1,6 +1,3 @@
-<h3>Olá meu nome é</h3><h2>Arthur Rosa</h2> - :four_leaf_clover: <br>
-
--=-
 <br>
 	<div style="display: inline_block" align="center">
 	<img align="center" alt="java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
