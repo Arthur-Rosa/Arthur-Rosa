@@ -12,7 +12,9 @@ I'm 17 years old - :small_airplane: <br>
 <br>
 	<div style="display: inline_block" align="center">
 	<img align="center" alt="java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div><br>
+</div>
+
+
 ```java
 @Controller
 public class ArthurController extends Developer {
