@@ -36,10 +36,9 @@ public class ArthurController extends Developer {
 }
 ```
 <div style="display: inline_block" align="center"><br>
-	<img align="center" alt="java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+	<img align="center" alt="java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><br>
 </div>
  <div align="center" style="display: inline_block">
-     <a href="https://github.com/ArthurCorpO">       
-     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ArthurCorpO&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+     <a href="https://github.com/ArthurCorpO">
      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCorpO&layout=compact&langs_count=7&theme=github_dark"/>
    </div>
