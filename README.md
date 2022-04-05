@@ -3,12 +3,6 @@ Sou do Brasil - :earth_americas: <br>
 Tenho 17 Anos - :small_airplane: <br>
 
 -=-
-
-Hello my name is Arthur Rosa - :four_leaf_clover: <br>
-I'm from Brazil - :earth_americas: <br>
-I'm 17 years old - :small_airplane: <br>
-
--=-
 <br>
 	<div style="display: inline_block" align="center">
 	<img align="center" alt="java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
