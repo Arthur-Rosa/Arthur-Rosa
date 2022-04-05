@@ -1,7 +1,7 @@
 <br>
 	<div style="display: inline_block" align="center">
 	<img align="center" alt="java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
+</div><br>
 
 
 ```java
