@@ -1,46 +1,16 @@
-<br>
-	<div style="display: inline_block" align="center">
-	<img align="center" alt="java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div><br>
+<div align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
-
-```java
-@Controller
-public class ArthurController extends Developer {
-
-	@Autowired
-	private ArthurRepository repArthur;
-
-	@RequestMapping("aboutYou")
-	public String aboutMe(Model model) {
-    		Arthur art =  new Arthur();
-    
-    		art.setName(" Arthur Rosa ");
-    		art.setEmail(" arthur.corporativo@outlook.com ");
-    		art.setLinkedin(" https://www.linkedin.com/in/arthur-rosa-a2805b208/ ");
-  
-  		model.addAttribute("arthur", art);
-		return "arthur/about";
-	}
-
-	@RequestMapping("languages")
-	public String languages(Model model) {
-		
-		List<String> lang = new ArrayList<String>();
-    
-    		lang.add(" JavaScript ");
-    		lang.add(" Php ");
-    		lang.add(" Java ");
-    		lang.add(" Sql ");
-    		lang.add(" SpringBoot ");
-    		lang.add(" Hibernate ");
-    
-		model.addAttribute("languages", lang);
-		return "arthur/languages";
-	}
-
-}
-```
+</div>
 <br>
  <div align="center" style="display: inline_block">
      <a href="https://github.com/ArthurCorpO">
