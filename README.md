@@ -44,5 +44,6 @@ public class ArthurController extends Developer {
 <br>
  <div align="center" style="display: inline_block">
      <a href="https://github.com/ArthurCorpO">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurCorpO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCorpO&layout=compact&langs_count=7&theme=github_dark"/>
    </div>
