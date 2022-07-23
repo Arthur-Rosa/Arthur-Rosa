@@ -1,19 +1,19 @@
 
-<img align="right" width="50%" height="200em" src="https://github-readme-stats.vercel.app/api?username=ArthurCorpO&theme=city_lights&show_icons=true" >
+<img align="right" width="50%" height="200em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Rosa&theme=dracula&show_icons=true" >
 
 ## Arthur Rosa
 
-- 🔭 Estudante de Desenvolvimento de Sistemas - Técnico
-- 🌱 Atualmente estou aprendendo SpringBoot && Node 
-- 💻 Desenvolvedor FullStack && Android
-- 👦 17 anos
-- ⚛  Java | JavaScript | Node
+- :two_hearts: Estudante de Desenvolvimento de Sistemas - Técnico
+- :star2: Atualmente estou aprendendo SpringBoot && Node 
+- :computer: Desenvolvedor FullStack && Android
+- :boom: Java | JavaScript | Node
+- :alien: 17 anos
 
 <hr>
 <br>
 
 
-<img width="50%" align="left" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCorpO&layout=compact&theme=city_lights&langs_count=8&show_icons=true"/>
+<img width="50%" align="left" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Rosa&layout=compact&theme=dracula&langs_count=8&show_icons=true"/>
 
 ## Habilidades
 
