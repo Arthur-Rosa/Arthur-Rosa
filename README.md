@@ -1,4 +1,5 @@
-<img width="50%" align="left" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCorpO&layout=compact&theme=city_lights&langs_count=8&show_icons=true"/>
+
+<img align="right" width="50%" height="200em" src="https://github-readme-stats.vercel.app/api?username=ArthurCorpO&theme=city_lights&show_icons=true" >
 
 ## Arthur Rosa
 
@@ -11,7 +12,8 @@
 <hr>
 <br>
 
-<img align="right" width="50%" height="200em" src="https://github-readme-stats.vercel.app/api?username=ArthurCorpO&theme=city_lights&show_icons=true" >
+
+<img width="50%" align="left" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCorpO&layout=compact&theme=city_lights&langs_count=8&show_icons=true"/>
 
 ## Habilidades
 
