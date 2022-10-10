@@ -6,8 +6,8 @@
 - :two_hearts: Estudante de Desenvolvimento de Sistemas - Técnico
 - :star2: Atualmente estou aprendendo SpringBoot && Node 
 - :computer: Desenvolvedor FullStack && Android
-- :boom: Java | JavaScript | Node
-- :alien: 17 anos
+- :boom: Java | JavaScript | Node | React
+- :alien: 18 anos
 
 <hr>
 <br>
