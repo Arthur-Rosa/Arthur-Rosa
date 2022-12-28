@@ -3,8 +3,8 @@
 
 ## Arthur Rosa
 
-- :two_hearts: Estudante de Desenvolvimento de Sistemas - Técnico
-- :star2: Atualmente estou aprendendo SpringBoot && Node 
+- :two_hearts: Desenvolvimento de Sistemas - Técnico
+- :star2: Atuo com Springboot && Node
 - :computer: Desenvolvedor FullStack && Android
 - :boom: Java | JavaScript | Node | React
 - :alien: 18 anos
