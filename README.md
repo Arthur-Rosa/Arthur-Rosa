@@ -7,7 +7,6 @@
 - :star2: Atuo com Springboot && Node
 - :computer: Desenvolvedor FullStack && Android
 - :boom: Java | JavaScript | Node | React
-- :alien: 18 anos
 
 <hr>
 <br>
