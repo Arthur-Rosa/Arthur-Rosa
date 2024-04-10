@@ -4,8 +4,9 @@
 ## Arthur Rosa
 
 - :two_hearts: Desenvolvimento de Sistemas - Técnico
-- :star2: Atuo com Springboot && Node
-- :computer: Desenvolvedor FullStack && Android
+- :astronaut: Cyber Security - FIAP
+- :star2: Atuo com DevOps && Node
+- :computer: Desenvolvedor Back-end
 - :boom: Java | JavaScript | Node | React
 
 <hr>
